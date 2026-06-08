@@ -1,2 +1,6 @@
 # NotaSweatPluginManager
-A plugin manager for the vr game, Gorilla Tag. I am planning to add a plugin installer, like how Monkey Mod Manager works.
+
+
+
+
+A Mod Manager For The VR Game, Gorilla Tag. I Have Added The Features as seen in the Latest Release.
